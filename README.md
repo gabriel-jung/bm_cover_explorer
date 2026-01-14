@@ -1,6 +1,6 @@
 # BM Cover Explorer
 
-<!-- [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://your-app-url.streamlit.app) -->
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://bm-cover-explorer.streamlit.app)
 [![Model: SigLIP](https://img.shields.io/badge/Model-SigLIP--B16-black?style=flat-square)](https://huggingface.co/timm/ViT-B-16-SigLIP)
 
 **BM Cover Explorer** is a semantic search engine for Black Metal album art. Powered by SigLIP (Vision Transformer), it enables natural language discovery across 3,000+ covers by matching text descriptions directly to visual concepts.
