@@ -1,0 +1,21 @@
+[project]
+name = "streamlit-bm"
+version = "0.1.0"
+requires-python = ">=3.12"
+dependencies = [
+    "numpy>=2.4.1",
+    "open-clip-torch>=3.2.0",
+    "pandas>=2.3.3",
+    "scikit-learn>=1.8.0",
+    "streamlit>=1.52.2",
+    "torch>=2.9.1",
+    "tqdm>=4.67.1",
+    "transformers>=4.57.5",
+    "watchdog>=6.0.0",
+]
+
+[dependency-groups]
+dev = [
+    "ipykernel>=7.1.0",
+    "ipywidgets>=8.1.8",
+]
