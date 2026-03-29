@@ -9,7 +9,12 @@
 ## Features
 
 - **Natural Language Search**: Retrieve covers by describing visual elements (e.g., *"Dark fortress in blue night"*).
+- **Image Search**: Upload an image to find visually similar covers in the archive.
 - **Similarity Discovery**: Explore the archive by finding covers visually related to a "seed" album, or view the least similar matches.
+- **Click-to-Explore**: Use any result as a new seed to navigate the archive by visual similarity.
+- **Year Range Filter**: Narrow results to a specific release period.
+- **Shareable URLs**: Text searches are encoded in the URL (`?q=...`) for easy sharing.
+- **CSV Export**: Download current results as a CSV file.
 
 
 ## Tech Stack
